@@ -1,0 +1,203 @@
+Station,Code,Line,Distance,Time,Platforms,Tracks,Year of Opening 
+Churchgate,CCG,Western,0 KM,0 min,4,4,1867
+Marine Lines,MEL,Western,1 KM,3 min,4,4,1867
+Charni Road,CYR,Western,1 KM,2 min,4,4,1867
+Grant Road,GTR,Western,1 KM,3 min,4,4,1868
+Mumbai Central,MMCT,Western,1 KM,2 min,9,9,1930
+Mahalakshmi,MX,Western,1 KM,3 min,3,3,1867
+Lower Parel,PL,Western,2 KM,3 min,3,5,1867
+Prabhadevi,PBHD,Western,1 KM,3 min,2,7,1867
+Dadar,D/DR/DDR,Western,1 KM,2 min,15,13,1868
+Matunga Road,MRU,Western,2 KM,2 min,2,5,1867
+Mahim Jn,MM,Western,1 KM,3 min,6,6,1896
+Bandra,B/BA,Western,2 KM,4 min,7,8,1869
+Khar Road,KHAR,Western,2 KM,3 min,6,6,1924
+Santacruz,STC,Western,1 KM,2 min,6,8,1888
+Vile Parle,VLP,Western,2 KM,3 min,6,7,1916
+Andheri,A/AD/ADH,Western,2 KM,5 min,9,9,1928
+Jogeshwari,JOS,Western,2 KM,3 min,6,7,1867
+Ram Mandir,RMAR,Western,2 KM,3 min,4,7,2016
+Goregaon,GMN,Western,3 KM,2 min,7,8,1867
+Malad,MDD,Western,2 KM,4 min,4,5,1867
+Kandivali,KLE,Western,1 KM,3 min,4,4,1907
+Borivali,BO/BVI,Western,3 KM,6 min,10,9,1867
+Dahisar,DIC,Western,2 KM,5 min,4,4,1867
+Mira Road,MIRA,Western,3 KM,5 min,4,4,1990
+Bhayander,BY,Western,3 KM,5 min,6,6,1867
+Naigaon,NIG,Western,6 KM,6 min,3,4,1994
+Vasai Road,BSR/BS,Western,4 KM,5 min,8,9,1864
+Nalla Sopara,NSP,Western,4 KM,5 min,4,4,1867
+Virar,VR,Western,4 KM,6 min,8,9,1867
+Vaitarna,VTN,Western,8 KM,9 min,2,2,2018
+Saphale,SAH,Western,8 KM,8 min,2,3,1894
+Kelve Road,KLV,Western,6 KM,8 min,3,3,1894
+Palghar,PLG,Western,8 KM,15 min,3,5,1893
+Umroli Road,UOI,Western,6 KM,6 min,2,2,
+Boisar,BOR,Western,6 KM,6 min,3,5,1992
+Vangaon,VGN,Western,9 KM,9 min,3,4,2012
+Dahanu Road,DRD,Western,12 KM,13 min,5,6,1898
+CSMT,CSMT/ST,Central 1,0 KM,0 min,7,7,1878
+Masjid,MSD,Central 1,1 KM,3 min,4,6,1877
+Sandhurst Road,SNRD,Central 1,1 KM,2 min,4,6,1921
+Byculla,BY,Central 1,2 KM,3 min,4,4,1853
+Chinchpokli,CHG,Central 1,1 KM,2 min,2,3,1877
+Currey Road,CRD,Central 1,1 KM,2 min,2,4,1915
+Parel,PR,Central 1,2 KM,3 min,3,3,1877
+Dadar,D/DR/DDR,Central 1,1 KM,3 min,15,13,1868
+Matunga,MTN,Central 1,1 KM,3 min,4,4,1865
+Sion,SIN,Central 1,1 KM,4 min,4,4,1853
+Kurla,C/CH,Central 1,1 KM,4 min,8,8,1879
+Vidhyavihar,VVH,Central 1,2 KM,3 min,2,2,1865
+Ghatkopar,G,Central 1,2 KM,3 min,4,7,1877
+Vikhroli,VK,Central 1,4 KM,5 min,4,5,1947
+Kanjur Marg,KJMG,Central 1,2 KM,3 min,3,6,1968
+Bhandup,BND,Central 1,2 KM,3 min,4,7,1853
+Nahur,NHU,Central 1,1 KM,3 min,2,4,2006
+Mulund,MLND,Central 1,2 KM,3 min,4,6,1931
+Thane,TNA,Central 1,2 KM,4 min,10,10,1853
+Kalva,KLVA,Central 1,2 KM,4 min,4,4,1968
+Mumbra,MBQ,Central 1,3 KM,6 min,4,4,1865
+Diva Jn,DIVA,Central 1,3 KM,4 min,8,13,1877
+Kopar,KOPR,Central 1,4 KM,5 min,2,2,2017
+Dombivli,DI,Central 1,1 KM,3 min,5,7,1886
+Thakurli,THK,Central 1,1 KM,3 min,2,3,2017
+Kalyan,KYN,Central 1,3 KM,6 min,8,9,1884
+Vithalwadi,VLDI,Central 1,2 KM,5 min,2,2,2017
+Ulhas Nagar,ULNR,Central 1,1 KM,3 min,2,2,2017
+Ambernath,ABH,Central 1,3 KM,6 min,3,3,1884
+Badalpur,BUD,Central 1,7 KM,8 min,3,3,1984
+Vangani,VGI,Central 1,11 KM,9 min,2,2,2017
+Shelu,SHLU,Central 1,4 KM,4 min,2,2,2017
+Neral,NRL,Central 1,4 KM,4 min,2,2,1887
+Bhivpuri Road,BVS,Central 1,7 KM,7 min,2,2,2017
+Karjat,KJT/S,Central 1,7 KM,9 min,3,5,1920
+Palasdhari,PDI,Central 1,3 KM,5 min,1,3,2004
+Kelavli,KLY,Central 1,5 KM,7 min,1,1,
+Dolavli,DLV,Central 1,1 KM,3 min,1,1,1916
+Lowjee,LWJ,Central 1,3 KM,4 min,1,1,1916
+Khopoli,KP,Central 1,3 KM,6 min,2,3,1925
+CSMT,CSMT/ST,Central 2,0 KM,0 min,7,7,1878
+Masjid,MSD,Central 2,1 KM,3 min,4,6,1877
+Sandhurst Road,SNRD,Central 2,1 KM,2 min,4,6,1921
+Byculla,BY,Central 2,2 KM,3 min,4,4,1853
+Chinchpokli,CHG,Central 2,1 KM,2 min,2,3,1877
+Currey Road,CRD,Central 2,1 KM,2 min,2,4,1915
+Parel,PR,Central 2,2 KM,3 min,3,3,1877
+Dadar,D/DR/DDR,Central 2,1 KM,3 min,15,13,1868
+Matunga,MTN,Central 2,1 KM,3 min,4,4,1865
+Sion,SIN,Central 2,1 KM,4 min,4,4,1853
+Kurla,C/CH,Central 2,1 KM,4 min,8,8,1879
+Vidhyavihar,VVH,Central 2,2 KM,3 min,2,2,1865
+Ghatkopar,G,Central 2,2 KM,3 min,4,7,1877
+Vikhroli,VK,Central 2,4 KM,5 min,4,5,1947
+Kanjur Marg,KJMG,Central 2,2 KM,3 min,3,6,1968
+Bhandup,BND,Central 2,2 KM,3 min,4,7,1853
+Nahur,NHU,Central 2,1 KM,3 min,2,4,2006
+Mulund,MLND,Central 2,2 KM,3 min,4,6,1931
+Thane,TNA,Central 2,2 KM,4 min,10,10,1853
+Kalva,KLVA,Central 2,2 KM,4 min,4,4,1968
+Mumbra,MBQ,Central 2,3 KM,6 min,4,4,1865
+Diva Jn,DIVA,Central 2,3 KM,4 min,8,13,1877
+Kopar,KOPR,Central 2,4 KM,5 min,2,2,2017
+Dombivli,DI,Central 2,1 KM,3 min,5,7,1886
+Thakurli,THK,Central 2,1 KM,3 min,2,3,2017
+Kalyan,KYN,Central 2,3 KM,6 min,8,9,1884
+Shahad,SHAD,Central 2,3 KM,5 min,2,2,1867
+Ambivli,ABY,Central 2,2 KM,3 min,2,2,1925
+Titwala,TLA,Central 2,6 KM,5 min,3,3,1958
+Khadavli,KDV,Central 2,7 KM,8 min,2,2,1916
+Vasind,VSD,Central 2,8 KM,8 min,2,6,1916
+Asangaon,ASO,Central 2,6 KM,6 min,2,4,2006
+Atagaon,ATG,Central 2,9 KM,9 min,2,4,
+Thansit,THS,Central 2,7 KM,7 min,2,,
+Khardi,KE,Central 2,5 KM,5 min,2,4,2006
+Umbermali,OMB,Central 2,6 KM,6 min,2,,2006
+Kasara,KSRA,Central 2,12 KM,12 min,4,10,2006
+CSMT,CSMT/ST,Harbour,0 KM,0 min,7,7,1878
+Masjid,MSD,Harbour,1 KM,3 min,4,6,1877
+Sandhurst Road,SNRD,Harbour,1 KM,2 min,4,6,1921
+Dockyarad Road,DKRD,Harbour,2 KM,2 min,2,2,1925
+Reay Road,RRD,Harbour,1 KM,2 min,2,2,1910
+Cotton Green,CTGN,Harbour,1 KM,2 min,3,2,1925
+Sewri,SVE,Harbour,1 KM,3 min,2,2,1925
+Vadala Road,VDLR,Harbour,2 KM,3 min,4,4,1925
+GTB Nagar,GTBN,Harbour,2 KM,4 min,1,2,2004
+Chunabhatti,CHF,Harbour,2 KM,3 min,2,2,1925
+Kurla,C/CH,Harbour,2 KM,3 min,8,8,1879
+Tilaknagar,TKNG,Harbour,2 KM,3 min,2,2,1925
+Chembur,CMBR,Harbour,1 KM,2 min,2,2,1906
+Govandi,GV,Harbour,3 KM,3 min,2,2,1925
+Mankhurd,MNKD,Harbour,3 KM,3 min,2,2,1925
+Vashi,VSH,Harbour,8 KM,8 min,4,4,1992
+Sanpada,SNCR,Harbour,3 KM,3 min,4,4,2000
+Juinagar,JNJ,Harbour,5 KM,5 min,6,4,1992
+Nerul,NEU,Harbour,3 KM,3 min,6,6,1993
+Seawood Darave,SWDV,Harbour,3 KM,3 min,4,4,2018
+Belapur CBD,BEPR,Harbour,4 KM,4 min,4,4,1994
+Kharghar,KHAG,Harbour,4 KM,4 min,4,4,2017
+Mansarovar,MANR,Harbour,3 KM,3 min,2,2,2008
+Khandeshwar,KNDS,Harbour,3 KM,3 min,2,2,2004
+Panvel,PNVL,Harbour,3 KM,3 min,7,10,1962
+Thane,TNA,Trans Harbour,0 KM,0 min,10,10,1853
+Airoli,AIRL,Trans Harbour,8 KM,8 min,2,2,2004
+Rabale,RABE,Trans Harbour,3 KM,3 min,2,2,2007
+Ghansoli,GNSL,Trans Harbour,3 KM,3 min,2,2,2000
+Koparkhairane,KPHN,Trans Harbour,3 KM,3 min,2,2,2004
+Turbhe,TUH,Trans Harbour,4 KM,4 min,4,4,2000
+Juinagar,JNJ,Trans Harbour,5 KM,5 min,6,4,1992
+Nerul,NEU,Trans Harbour,3 KM,3 min,6,6,1993
+Seawood Darave,SWDV,Trans Harbour,3 KM,3 min,4,4,2018
+Belapur CBD,BEPR,Trans Harbour,4 KM,4 min,4,4,1994
+Kharghar,KHAG,Trans Harbour,4 KM,4 min,4,4,2017
+Mansarovar,MANR,Trans Harbour,3 KM,3 min,2,2,2008
+Khandeshwar,KNDS,Trans Harbour,3 KM,3 min,2,2,2004
+Panvel,PNVL,Trans Harbour,3 KM,3 min,7,10,1962
+Nerul,NEU,Uran,0 KM,0 min,6,6,1993
+Seawood Darave,SWDV,Uran,3 KM,3 min,4,4,2018
+Belapur CBD,BEPR,Uran,4 KM,4 min,4,4,1994
+Bamandongri,BMNDG,Uran,9 KM,12 min,2,2,2018
+Kharkopar,KARP,Uran,3 KM,4 min,2,2,2018
+Diva Jn,DIVA,Diva-Roha,0 KM,0 min,8,13,1877
+Dativali,DTVL,Diva-Roha,2 KM,5 min,3,2,2017
+Nilje,NIIJ,Diva-Roha,4 KM,11 min,2,4,1966
+Taloja Panchanand,TPND,Diva-Roha,6 KM,9 min,2,4,1966
+Navade Road,NVRD,Diva-Roha,4 KM,7 min,3,4,1966
+Kalamboli,KLMG,Diva-Roha,2 KM,3 min,2,4,1966
+Panvel,PNVL,Diva-Roha,4 KM,16 min,7,10,1962
+Somtane,SMNE,Diva-Roha,7 KM,10 min,2,4,2024
+Rasayani,RSYI,Diva-Roha,6 KM,7 min,2,2,2009
+Apta,APTA,Diva-Roha,4 KM,9 min,2,4,2009
+Jite,JITE,Diva-Roha,10 KM,5 min,2,4,2023
+Hamarapur,HPUR,Diva-Roha,5 KM,14 min,2,2,
+Pen,PEN,Diva-Roha,6 KM,6 min,3,7,1888
+Kasu,KASU,Diva-Roha,13 KM,14 min,2,4,
+Nagothane,NGTN,Diva-Roha,14 KM,14 min,2,6,1863
+Nidi,NIDI,Diva-Roha,5 KM,10 min,2,2,
+Roha,ROHA,Diva-Roha,10 KM,20 min,3,7,1986
+Dahanu Road,DRD,Dahanu-Virar-Panvel,0 KM,0 min,5,6,1898
+Vangaon,VGN,Dahanu-Virar-Panvel,9 KM,9 min,3,4,2012
+Boisar,BOR,Dahanu-Virar-Panvel,6 KM,6 min,3,5,1992
+Umroli Road,UOI,Dahanu-Virar-Panvel,6 KM,6 min,2,2,
+Palghar,PLG,Dahanu-Virar-Panvel,8 KM,15 min,3,5,1893
+Kelva Road,KLV,Dahanu-Virar-Panvel,6 KM,8 min,3,3,
+Saphale,SAH,Dahanu-Virar-Panvel,8 KM,8 min,2,3,1894
+Vaitarna,VTN,Dahanu-Virar-Panvel,8 KM,9 min,2,2,2018
+Virar,VR,Dahanu-Virar-Panvel,4 KM,6 min,8,9,1867
+Nalla Sopara,NSP,Dahanu-Virar-Panvel,4 KM,5 min,4,4,1867
+Vasai Road,BSR/BS,Dahanu-Virar-Panvel,4 KM,5 min,8,9,1864
+Juchandra Road,JCNR,Dahanu-Virar-Panvel,4 KM,6 min,,,
+Kaman Road,KARD,Dahanu-Virar-Panvel,7 KM,6 min,3,4,2023
+Kharbao,KHBV,Dahanu-Virar-Panvel,7 KM,7 min,4,,
+Bhiwandi Road,BIRD,Dahanu-Virar-Panvel,8 KM,10 min,5,,1879
+Kopar,KOPR,Dahanu-Virar-Panvel,8 KM,12 min,2,2,2017
+Dativali,DTVL,Dahanu-Virar-Panvel,3 KM,8 min,3,2,2017
+Nilje,NIIJ,Dahanu-Virar-Panvel,4 KM,11 min,2,4,1966
+Taloja Panchanand,TPND,Dahanu-Virar-Panvel,6 KM,9 min,2,4,1966
+Navade Road,NVRD,Dahanu-Virar-Panvel,4 KM,7 min,3,4,1966
+Kalamboli,KLMG,Dahanu-Virar-Panvel,2 KM,3 min,2,4,1966
+Panvel,PNVL,Dahanu-Virar-Panvel,4 KM,16 min,7,10,1962
+Neral,NRL,Neral-Matheran,0 KM,0 min,2,2,1887
+Jumapatti,JTT,Neral-Matheran,5 KM,46 min,,,
+Waterpipe,WTP,Neral-Matheran,6 KM,46 min,,,
+Aman Lodge,AMNA,Neral-Matheran,7 KM,50 min,,,
+Matheran,MAE,Neral-Matheran,2 KM,18 min,,,1907
